@@ -1,0 +1,8 @@
+*.class
+.DS_Store
+.idea/
+*.iml
+out/
+build/
+data/
+reports/
